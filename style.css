@@ -1,0 +1,11 @@
+.barra{
+    height: 55px;
+    width: 1030px;
+    bottom: 92%;
+    right: 0%;
+    position: absolute;
+    background-color: cornflowerblue;
+}
+.logo{
+    color:black;
+}
